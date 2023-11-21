@@ -6,3 +6,5 @@ In this project you will find:
 * Single Activity architecture using Navigation Compose;
 * Dependency Injection using Hilt;
 * Beer catalogue pagination built with Paging3;
+
+Free beer API doc: https://punkapi.com/documentation/v2
