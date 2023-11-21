@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beer Catalogue</string>
+
+    <string name="beer">Beer</string>
+    <string name="description">Description</string>
+    <string name="abv">Abv</string>
+    <string name="get_random_label">Get your random</string>
+    <string name="generate">Generate</string>
+</resources>
